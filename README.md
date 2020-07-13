@@ -10,3 +10,7 @@ A very basic CRUD for learning using PHP and MySQL
 #About Project
 
 ```This project contains CRUD (Create, Read, Update, and Delete)```
+
+#Files
+```conn.php, delete.php, details.php, edit.php, index.php, update.php, and Database SQL.sql```
+
